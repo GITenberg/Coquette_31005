@@ -1,0 +1,34 @@
+_repo: Coquette_31005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swinnerton, Frank
+    alias: Swinnerton, Frank Arthur
+    birthdate: 1884
+    deathdate: 1982
+    gutenberg_agent_id: '5786'
+    url: http://www.gutenberg.org/2009/agents/5786
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Arthur_Swinnerton
+description: From Frank Swinnerton comes the engrossing story of young Sally Minto,
+  a nineteen-year-old dressmaker's assistant. A moving journey through a year and
+  a half of Sally's life, this novel is at its core a passionate love story. Coquette
+  also has themes of ambition, power, and wealth, all depicted in scenes of delicate
+  realism.
+gutenberg_issued: '2010-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dressmakers -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Young women -- Fiction'
+title: Coquette
+url: http://www.gutenberg.org/ebooks/31005
